@@ -1,6 +1,6 @@
 # Flutter Hive CRUD operation
 
-<p> This is a simple implementation of API caching in using DIO package in dart/flutter </p>
+<p> This is a simple implementation of API caching using DIO package in dart/flutter </p>
 
 #### Screenshot:
 
