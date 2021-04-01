@@ -1,16 +1,12 @@
-# flutter_dio_cache
+# Flutter Hive CRUD operation
 
-A new Flutter project.
+<p> This is a simple implementation of API caching in using DIO package in dart/flutter </p>
 
-## Getting Started
+#### Screenshot:
 
-This project is a starting point for a Flutter application.
+<p align="center"><img src="https://i.imgur.com/QAaKQvy.png" alt="Screenshot" width="350"></p>
 
-A few resources to get you started if this is your first Flutter project:
+#### Dependencies:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* dio: ^3.0.9
+* dio_http_cache: ^0.2.6
